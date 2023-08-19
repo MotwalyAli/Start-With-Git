@@ -7,4 +7,7 @@ this file is ".txt" file which mean that it is going to be a code all of the tim
 And this the point of using the git and the GitHub, we are many programmers that are working in the same project "code" and all of us have the course of the code and we are modifying the code at the same time in the sake of productivity.
 any one of us when he/she modify the code for example after working for one hour parallelly we all pushed the commits we made for the course code which have the changes into it, we push them at the same time to the GitHub in order to allow each others to pull the changes or to merge the code in on e file or in order to check it.  
 
+day 2 
 
+I took more time in the Git that it supposed to be taken.
+ 
